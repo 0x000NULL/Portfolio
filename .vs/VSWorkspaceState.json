@@ -1,7 +1,17 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\content",
+    "\\content\\pages",
+    "\\content\\pages\\about",
+    "\\content\\pages\\contact",
+    "\\content\\projects",
+    "\\content\\projects\\mtCharelston9-3-22",
+    "\\src\\@lekoarts",
+    "\\src\\@lekoarts\\gatsby-theme-jodie",
+    "\\src\\pages",
+    "\\static"
   ],
-  "SelectedNode": "\\C:\\Users\\e.aldrich\\Source\\Repos\\Portfolio",
+  "SelectedNode": "\\content\\projects\\mtCharelston9-3-22\\index.mdx",
   "PreviewInSolutionExplorer": false
 }
