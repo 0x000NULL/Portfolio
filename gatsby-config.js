@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://ethanaldrich.net`,
     siteDescription: `Just some cool pictures I take.`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/banner.png`,
     author: `Ethan Aldrich`,
   },
   plugins: [
