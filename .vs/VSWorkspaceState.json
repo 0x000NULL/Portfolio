@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\content\\pages",
-    "\\content\\pages\\about",
-    "\\content\\pages\\contact",
     "\\content\\projects",
-    "\\content\\projects\\mtCharelston9-3-22",
+    "\\src",
     "\\src\\@lekoarts",
     "\\src\\@lekoarts\\gatsby-theme-jodie",
+    "\\src\\@lekoarts\\gatsby-theme-jodie\\components",
+    "\\src\\components",
     "\\src\\pages",
     "\\static"
   ],
-  "SelectedNode": "\\content\\projects\\mtCharelston9-3-22\\index.mdx",
+  "SelectedNode": "\\src\\components\\footer.tsx",
   "PreviewInSolutionExplorer": false
 }
