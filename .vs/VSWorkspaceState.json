@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\content",
+    "\\content\\pages",
+    "\\content\\pages\\about",
     "\\content\\projects",
     "\\src",
     "\\src\\@lekoarts",
     "\\src\\@lekoarts\\gatsby-theme-jodie",
-    "\\src\\@lekoarts\\gatsby-theme-jodie\\components",
-    "\\src\\components",
-    "\\src\\pages",
-    "\\static"
+    "\\src\\@lekoarts\\gatsby-theme-jodie\\icons",
+    "\\src\\pages"
   ],
-  "SelectedNode": "\\src\\components\\footer.tsx",
+  "SelectedNode": "\\src\\@lekoarts\\gatsby-theme-jodie\\icons\\logo.jsx",
   "PreviewInSolutionExplorer": false
 }
