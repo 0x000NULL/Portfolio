@@ -2,7 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\content",
-    "\\src"
+    "\\content\\pages",
+    "\\content\\projects",
+    "\\src",
+    "\\src\\@lekoarts",
+    "\\src\\@lekoarts\\gatsby-theme-jodie",
+    "\\src\\pages",
+    "\\static"
   ],
+  "SelectedNode": "\\content\\projects",
   "PreviewInSolutionExplorer": false
 }
